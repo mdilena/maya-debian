@@ -1,0 +1,3 @@
+[submodule "libxp6-binaries"]
+	path = libxp6-binaries
+	url = git@github.com:mdilena/libxp6-binaries.git
